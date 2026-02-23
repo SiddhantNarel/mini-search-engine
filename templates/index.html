@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Mini Search Engine{% endblock %}
+
+{% block content %}
+<div class="home-hero">
+  <!-- Logo / branding area -->
+  <div class="home-logo">
+    <span class="logo-icon">🔍</span>
+    <h1 class="logo-text">MiniSearch</h1>
+    <p class="logo-tagline">A lightweight search engine built with Python &amp; TF-IDF</p>
+  </div>
+
+  <!-- Search form -->
+  <form class="search-form" action="{{ url_for('search') }}" method="get">
+    <div class="search-box">
+      <input
+        type="text"
+        name="q"
+        class="search-input"
+        placeholder="Search the web…"
+        autofocus
+        autocomplete="off"
+      />
+      <button type="submit" class="search-btn">Search</button>
+    </div>
+  </form>
+
+  <!-- Quick stats badge -->
+  <p class="index-stats">
+    Index contains
+    <strong>{{ stats.documents }}</strong> documents
+    and <strong>{{ stats.terms }}</strong> unique terms.
+  </p>
+</div>
+{% endblock %}
