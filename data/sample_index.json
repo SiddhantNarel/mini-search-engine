@@ -1,0 +1,387 @@
+{
+  "index": {
+    "python": {
+      "doc_0": [2, 15, 42, 78],
+      "doc_1": [5, 19],
+      "doc_2": [1, 8, 33],
+      "doc_4": [3, 22, 67],
+      "doc_7": [10, 45]
+    },
+    "program": {
+      "doc_0": [16, 43],
+      "doc_1": [6],
+      "doc_2": [9],
+      "doc_4": [23]
+    },
+    "languag": {
+      "doc_0": [3, 44],
+      "doc_1": [7, 20],
+      "doc_2": [10, 34],
+      "doc_3": [2, 18],
+      "doc_4": [4, 68],
+      "doc_7": [11]
+    },
+    "web": {
+      "doc_1": [1, 30],
+      "doc_5": [0, 12, 25],
+      "doc_6": [4, 17],
+      "doc_8": [2, 9]
+    },
+    "crawl": {
+      "doc_1": [2, 31],
+      "doc_5": [1, 13],
+      "doc_8": [3]
+    },
+    "search": {
+      "doc_0": [60],
+      "doc_2": [50],
+      "doc_5": [5, 18],
+      "doc_6": [0, 14],
+      "doc_9": [1, 20, 40]
+    },
+    "engin": {
+      "doc_5": [6],
+      "doc_6": [1, 15],
+      "doc_9": [2, 21]
+    },
+    "index": {
+      "doc_2": [11, 35],
+      "doc_6": [8, 22],
+      "doc_9": [3]
+    },
+    "inform": {
+      "doc_2": [12],
+      "doc_6": [9],
+      "doc_9": [4, 22]
+    },
+    "retriev": {
+      "doc_2": [13],
+      "doc_6": [10],
+      "doc_9": [5, 23]
+    },
+    "data": {
+      "doc_0": [70],
+      "doc_2": [36],
+      "doc_3": [5, 25],
+      "doc_9": [6],
+      "doc_10": [0, 14, 28]
+    },
+    "structur": {
+      "doc_3": [6, 26],
+      "doc_10": [1, 15]
+    },
+    "algorithm": {
+      "doc_3": [7, 27],
+      "doc_4": [30],
+      "doc_10": [2, 16]
+    },
+    "machin": {
+      "doc_4": [5, 24],
+      "doc_7": [0, 14],
+      "doc_11": [2, 12]
+    },
+    "learn": {
+      "doc_4": [6, 25],
+      "doc_7": [1, 15],
+      "doc_11": [3, 13]
+    },
+    "neural": {
+      "doc_7": [2, 16],
+      "doc_11": [4, 14],
+      "doc_12": [0, 10]
+    },
+    "network": {
+      "doc_7": [3, 17],
+      "doc_11": [5, 15],
+      "doc_12": [1, 11]
+    },
+    "artifici": {
+      "doc_7": [4, 18],
+      "doc_11": [6, 16],
+      "doc_12": [2, 12]
+    },
+    "intellig": {
+      "doc_7": [5, 19],
+      "doc_11": [7, 17],
+      "doc_12": [3, 13]
+    },
+    "linux": {
+      "doc_8": [0, 15],
+      "doc_13": [2, 18]
+    },
+    "open": {
+      "doc_8": [1, 16],
+      "doc_13": [3, 19]
+    },
+    "sourc": {
+      "doc_8": [4, 19],
+      "doc_13": [5, 21],
+      "doc_14": [3]
+    },
+    "softwar": {
+      "doc_8": [5, 20],
+      "doc_13": [6, 22],
+      "doc_14": [4, 12]
+    },
+    "operat": {
+      "doc_8": [6, 21],
+      "doc_13": [7, 23]
+    },
+    "system": {
+      "doc_8": [7, 22],
+      "doc_13": [8, 24],
+      "doc_3": [10]
+    },
+    "databas": {
+      "doc_3": [3, 23],
+      "doc_10": [4, 18],
+      "doc_14": [0, 10]
+    },
+    "sql": {
+      "doc_3": [4, 24],
+      "doc_14": [1, 11]
+    },
+    "queri": {
+      "doc_3": [11, 29],
+      "doc_9": [10],
+      "doc_14": [2, 16]
+    },
+    "develop": {
+      "doc_0": [80],
+      "doc_4": [40],
+      "doc_5": [22],
+      "doc_14": [5, 13]
+    },
+    "flask": {
+      "doc_0": [17, 50],
+      "doc_5": [8, 20]
+    },
+    "framework": {
+      "doc_0": [18],
+      "doc_5": [9]
+    },
+    "tfidf": {
+      "doc_6": [5],
+      "doc_9": [8]
+    },
+    "term": {
+      "doc_6": [6],
+      "doc_9": [9]
+    },
+    "frequenc": {
+      "doc_6": [7],
+      "doc_9": [11]
+    },
+    "sort": {
+      "doc_10": [6],
+      "doc_3": [14]
+    },
+    "tree": {
+      "doc_10": [7],
+      "doc_3": [15]
+    },
+    "graph": {
+      "doc_10": [8],
+      "doc_3": [16]
+    },
+    "deep": {
+      "doc_11": [0],
+      "doc_12": [4]
+    },
+    "convolution": {
+      "doc_12": [5]
+    },
+    "vision": {
+      "doc_12": [6]
+    },
+    "kernel": {
+      "doc_13": [0]
+    },
+    "command": {
+      "doc_13": [1]
+    },
+    "scrip": {
+      "doc_0": [19],
+      "doc_8": [10]
+    },
+    "text": {
+      "doc_2": [14],
+      "doc_6": [11],
+      "doc_9": [12]
+    },
+    "document": {
+      "doc_2": [15],
+      "doc_6": [12],
+      "doc_9": [13]
+    },
+    "rank": {
+      "doc_6": [13],
+      "doc_9": [14]
+    },
+    "score": {
+      "doc_6": [16],
+      "doc_9": [15]
+    },
+    "internet": {
+      "doc_1": [10],
+      "doc_5": [14]
+    },
+    "http": {
+      "doc_1": [11],
+      "doc_5": [15]
+    },
+    "html": {
+      "doc_1": [12],
+      "doc_5": [16]
+    },
+    "link": {
+      "doc_1": [13],
+      "doc_5": [17]
+    }
+  },
+  "doc_freq": {
+    "python": 5,
+    "program": 4,
+    "languag": 6,
+    "web": 4,
+    "crawl": 3,
+    "search": 5,
+    "engin": 3,
+    "index": 3,
+    "inform": 3,
+    "retriev": 3,
+    "data": 5,
+    "structur": 2,
+    "algorithm": 3,
+    "machin": 3,
+    "learn": 3,
+    "neural": 3,
+    "network": 3,
+    "artifici": 3,
+    "intellig": 3,
+    "linux": 2,
+    "open": 2,
+    "sourc": 3,
+    "softwar": 3,
+    "operat": 2,
+    "system": 3,
+    "databas": 3,
+    "sql": 2,
+    "queri": 3,
+    "develop": 4,
+    "flask": 2,
+    "framework": 2,
+    "tfidf": 2,
+    "term": 2,
+    "frequenc": 2,
+    "sort": 2,
+    "tree": 2,
+    "graph": 2,
+    "deep": 2,
+    "convolution": 1,
+    "vision": 1,
+    "kernel": 1,
+    "command": 1,
+    "scrip": 2,
+    "text": 3,
+    "document": 3,
+    "rank": 2,
+    "score": 2,
+    "internet": 2,
+    "http": 2,
+    "html": 2,
+    "link": 2
+  },
+  "documents": {
+    "doc_0": {
+      "title": "Python (programming language) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "snippet": "Python is a high-level, general-purpose programming language. Its design philosophy emphasises code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming. It is often described as a 'batteries included' language due to its comprehensive standard library.",
+      "length": 95
+    },
+    "doc_1": {
+      "title": "Web crawler - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Web_crawler",
+      "snippet": "A web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web and that is typically operated by search engines for the purpose of web indexing. Web crawlers copy pages for processing by a search engine, which indexes the downloaded pages so users can search more efficiently.",
+      "length": 80
+    },
+    "doc_2": {
+      "title": "Inverted index - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inverted_index",
+      "snippet": "An inverted index (also referred to as a postings list, postings file, or inverted file) is a database index storing a mapping from content, such as words or numbers, to its locations in a document or a set of documents. The purpose of an inverted index is to allow fast full-text searches, at a cost of increased processing when a document is added to the database.",
+      "length": 75
+    },
+    "doc_3": {
+      "title": "Database - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Database",
+      "snippet": "A database is an organized collection of data or a type of data store based on the use of a database management system (DBMS). Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. The design of databases spans formal techniques and practical considerations, including data modeling, efficient data representation and storage.",
+      "length": 88
+    },
+    "doc_4": {
+      "title": "Machine learning - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Machine_learning",
+      "snippet": "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalise to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches to machine learning.",
+      "length": 72
+    },
+    "doc_5": {
+      "title": "Web search engine - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Web_search_engine",
+      "snippet": "A web search engine or Internet search engine is a software system designed to carry out web searches. They search the World Wide Web in a systematic way for particular information specified in a textual web search query. The search results are generally presented in a line of results, often referred to as search engine results pages (SERPs).",
+      "length": 70
+    },
+    "doc_6": {
+      "title": "tf-idf - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tf%E2%80%93idf",
+      "snippet": "In information retrieval, tf-idf (also TF*IDF, TFIDF, TF-IDF, or Tf-idf), short for term frequency-inverse document frequency, is a measure of importance of a word to a document in a collection or corpus, adjusted for the fact that some words appear more frequently in general.",
+      "length": 65
+    },
+    "doc_7": {
+      "title": "Artificial intelligence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "snippet": "Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of living beings, primarily of humans. AI applications include advanced web search engines, recommendation systems, understanding human speech, self-driving cars, generative AI tools, and autonomous decision-making.",
+      "length": 68
+    },
+    "doc_8": {
+      "title": "Linux - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linux",
+      "snippet": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged as a Linux distribution (distro), which includes the kernel and supporting system software and libraries, many of which are provided by the GNU Project.",
+      "length": 78
+    },
+    "doc_9": {
+      "title": "Search engine (computing) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Search_engine_(computing)",
+      "snippet": "A search engine is an information retrieval system designed to help find information stored in a computer system. The search results are usually presented in a list and are commonly called search hits. A search engine typically consists of an interface, a crawler/spider, an indexer, a database, and a search algorithm.",
+      "length": 66
+    },
+    "doc_10": {
+      "title": "Data structure - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Data_structure",
+      "snippet": "In computer science, a data structure is a data organisation and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to them. Data structures serve as the basis for abstract data types (ADT).",
+      "length": 73
+    },
+    "doc_11": {
+      "title": "Deep learning - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deep_learning",
+      "snippet": "Deep learning is the subset of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. Deep-learning architectures such as deep neural networks, recurrent neural networks, and convolutional neural networks have been applied to fields including computer vision, speech recognition, and natural language processing.",
+      "length": 82
+    },
+    "doc_12": {
+      "title": "Convolutional neural network - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+      "snippet": "A convolutional neural network (CNN) is a type of artificial neural network used mainly for pattern recognition tasks such as image classification and object detection. CNNs are regularized versions of multilayer perceptrons. They use a mathematical operation called convolution in place of general matrix multiplication in at least one of their layers.",
+      "length": 76
+    },
+    "doc_13": {
+      "title": "Linux kernel - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Linux_kernel",
+      "snippet": "The Linux kernel is a free and open-source, monolithic, modular, multitasking, Unix-like operating system kernel. It was conceived and created in 1991 by Linus Torvalds for his personal computer and, with the adoption of the GNU General Public License version 2 (GPLv2) in December 1992, it became free and open-source software.",
+      "length": 71
+    },
+    "doc_14": {
+      "title": "SQL - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SQL",
+      "snippet": "SQL (Structured Query Language) is a domain-specific language used to manage data held in a relational database management system (RDBMS) or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.",
+      "length": 64
+    }
+  }
+}

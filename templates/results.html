@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}{{ query }} — MiniSearch Results{% endblock %}
+
+{% block content %}
+<!-- Compact search bar at the top of the results page -->
+<div class="results-header">
+  <form class="search-form search-form--compact" action="{{ url_for('search') }}" method="get">
+    <a class="results-logo" href="{{ url_for('index') }}">🔍 MiniSearch</a>
+    <div class="search-box">
+      <input
+        type="text"
+        name="q"
+        class="search-input"
+        value="{{ query }}"
+        autocomplete="off"
+      />
+      <button type="submit" class="search-btn">Search</button>
+    </div>
+  </form>
+</div>
+
+<!-- Result count / timing line -->
+{% if query %}
+  <p class="result-meta">
+    {% if results %}
+      About <strong>{{ result_count }}</strong> result(s) for
+      <em>"{{ query }}"</em>
+      &mdash; {{ elapsed }} seconds
+    {% else %}
+      No results found for <em>"{{ query }}"</em>.
+      Try different keywords or
+      <a href="{{ url_for('crawl') }}">crawl more pages</a>.
+    {% endif %}
+  </p>
+{% endif %}
+
+<!-- Result cards -->
+<div class="results-list">
+  {% for result in results %}
+  <div class="result-card">
+    <div class="result-url">{{ result.url }}</div>
+    <a class="result-title" href="{{ result.url }}" target="_blank" rel="noopener noreferrer">
+      {{ result.title }}
+    </a>
+    <p class="result-snippet">{{ result.snippet }}</p>
+    <span class="result-score">Score: {{ result.score }}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
